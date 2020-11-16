@@ -7,3 +7,8 @@ Logga ut `script.js` till konsolen.
 ````
 
 Testkör filen med `node script.js`
+
+
+
+
+l
