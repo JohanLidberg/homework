@@ -13,8 +13,8 @@
 // 1
 // 6
 const number = 6
-let x = 0
-while(x !== number){
-  x = Math.floor((Math.random() * 20) + 1)
-  console.log(x)
+let i = 0
+while(i !== number){
+  i = Math.floor((Math.random() * 20) + 1)
+  console.log(i)
 }
